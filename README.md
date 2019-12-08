@@ -1,21 +1,13 @@
 # ElixirWithAlgorithms
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_with_algorithms` to your list of dependencies in `mix.exs`:
+## Start
 
 ```elixir
-def deps do
-  [
-    {:elixir_with_algorithms, "~> 0.1.0"}
-  ]
-end
+iex -S mix
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/elixir_with_algorithms](https://hexdocs.pm/elixir_with_algorithms).
+## Test
 
+```elixir
+mix test
+```
